@@ -31,7 +31,7 @@ happy hactoberfest 2021
 <p>Gagan Khatri | <a href="https://github.com/ItsGagan">ItsGagan</a> | <a href="itsgagankhatri@gmail.com">mail id</a> | </p>
 <p>Abel | <a href="https://github.com/ZAStech">ZAStech</a> | <a href="dolphinbluesky0@gmail.com">mail id</a> | </p>
 
-<p>Zentreax | <a href="https://https://github.com/zentreax">GitHub</a>  | <a href="zen@zentreax.dev">Email</a> |</p>
+<p>Zentreax | <a href="https://github.com/Priyanshu95663">GitHub</a>  | <a href="priyanshumehra95@gmail.com">Email</a> |</p>
 
 <p>Adepu Loukya | <a href="https://github.com/A-Loukya">A-Loukya</a> | <a href="adepuloukya1@gmail.com">mail id</a> | </p>
 
@@ -39,5 +39,6 @@ happy hactoberfest 2021
 <p>Arpan Maheshwari | <a href="https://github.com/ArpanMaheshwari144">ArpanMaheshwari144</a> | <a href="maheshwariarpan828@gmail.com">Email ID</a> | </p>
 
 <p>Aaditya Kumra | <a href="https://github.com/AadityaKumra">aaditya kumra</a> | <a href="aadityakumra@gmail.com">mail id</a> | </p>
+<p>Priyanshu Mehra | <a href="https://github.com/AadityaKumra">Priyanshu mehra</a> | <a href="aadityakumra@gmail.com">mail id</a> | </p>
 
 
