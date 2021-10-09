@@ -41,4 +41,6 @@ happy hactoberfest 2021
 <p>Aaditya Kumra | <a href="https://github.com/AadityaKumra">aaditya kumra</a> | <a href="aadityakumra@gmail.com">mail id</a> | </p>
 <p>Priyanshu Mehra | <a href="https://github.com/AadityaKumra">Priyanshu mehra</a> | <a href="aadityakumra@gmail.com">mail id</a> | </p>
 
+<p>Anurag Rai | <a href="https://github.com/githubANURAG1">anurag rai</a> | <a href="anurag0429rai@gmail.com">mail id</a> | </p>
+
 
